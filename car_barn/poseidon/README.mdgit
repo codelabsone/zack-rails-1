@@ -1,1 +1,0 @@
-"# zack-rails-1"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/codelabsone/zack-rails-1.gitgit push -u origin master
